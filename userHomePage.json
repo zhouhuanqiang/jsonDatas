@@ -7,6 +7,9 @@
         "topic": "情感,电影",
         "character": "开放",
         "picUrl": "http://static.hnyequ.cn/headerImagePath/b1204f08-3bb8-4062-89b6-a16a9ece667a.jpg",
+        "pictures" : ["https://wx1.sinaimg.cn/mw690/006bTgVkgy1fz0fijl9u9j30jg0jgq4q.jpg","https://wx1.sinaimg.cn/mw690/006bTgVkgy1fz0fijkopuj30jg0jg766.jpg"],
+        "videoUrls" :["http://cdn.yuxiuapp.com/audituser/63/20170818152922.mp4","http://cdn.yuxiuapp.com/audituser/63/20170818152922.mp4"],
+        "videoCoverUrls" : ["https://wx1.sinaimg.cn/mw690/006bTgVkgy1fz0fu7fwqmj30jg0jggn6.jpg","https://wx3.sinaimg.cn/mw690/006bTgVkgy1fz0fu7fr7jj30jg0jgmyn.jpg"],
         "dynamics": [
             {
                 "name": "一个萌帆帆",
